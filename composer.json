@@ -16,6 +16,7 @@
   "type": "yii2-extension",
   "require": {
     "php": ">=5.4.0",
+    "yiisoft/yii2-composer": "*",
     "symfony/process": "2.6.* || 3.* || 4.*",
     "dragonmantank/cron-expression": "1.*"
   },
